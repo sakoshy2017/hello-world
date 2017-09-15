@@ -6,4 +6,4 @@ This is Sudeep. Currently testing out the GitHub functionalities and going throu
 Thanks!!!
 
 # Testing out Formatting
-Also trying to test out emojies like :SMILEY: and :+1: to see if they work
+Also trying to test out emojies like :smiley: and :+1: to see if they work
